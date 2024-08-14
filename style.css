@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url('https://nwamotherlode.com/wp-content/uploads/2013/07/raining-gif2.gif');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
